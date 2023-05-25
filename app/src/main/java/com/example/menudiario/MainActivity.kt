@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Greeting("Android")
+                    screen()
                 }
             }
         }
@@ -30,14 +30,6 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String) {
-    Text(text = "Hello $name!")
-}
+fun screen() {
 
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    MenudiarioTheme {
-        Greeting("Android")
-    }
 }
