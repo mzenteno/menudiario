@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/outline_home_24"
+        />
+
+    <item
+        android:id="@+id/favorites"
+        android:title="Favorites"
+        android:icon="@drawable/outline_favorite_border_24" />
+
+    <item
+        android:id="@+id/comunity"
+        android:title="Comunity"
+        android:icon="@drawable/outline_groups_24" />
+
+    <item
+        android:id="@+id/user"
+        android:title="User profile"
+        android:icon="@drawable/outline_person_24" />
+
+</menu>

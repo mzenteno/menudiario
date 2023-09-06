@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Menuduario" parent="android:Theme.Material.Light.NoActionBar" />
+<!--    <style name="Theme.Menuduario" parent="Theme.AppCompat.DayNight" >-->
+<!--        <item name="android:navigationBarColor">@color/white1</item>-->
+<!--        <item name="android:windowTranslucentNavigation">false</item>-->
+<!--    </style>-->
+
+<!--    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">-->
+<!--        <item name="android:background">@color/white1 </item>-->
+<!--    </style>-->
+<!--    <style name="BottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">-->
+<!--        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>-->
+<!--    </style>-->
+
 </resources>
